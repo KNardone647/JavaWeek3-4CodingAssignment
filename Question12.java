@@ -13,7 +13,7 @@ public class Question12 {
 		
 		// prompting the user to input data and preparing the computer to process this input
 		System.out.println("Please input whether it is hot outside, true or false. Hit enter:");
-		System.out.println("Please input the amount of money in your pocket. Hit enter:");
+    	System.out.println("Please input the amount of money in your pocket. Hit enter:");
 		Scanner scnr = new Scanner(System.in);
 		boolean isItHot = scnr.nextBoolean();
 		double  myMoney = scnr.nextDouble();

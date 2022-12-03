@@ -8,7 +8,7 @@ public class Question9 {
 		
   // creating the array and setting all of the indexes with elements 
        int[] myArray = new int[3];
-       myArray[0] = 100;
+       myArray[0] = 10;
        myArray[1] = 6;
        myArray[2] = 12;
      

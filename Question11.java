@@ -11,7 +11,7 @@ public class Question11 {
         // creating the first array and assigning elements to each index
 		double[] firstStudentGrades =  new double[5];
 		firstStudentGrades[0] = 99.5;
-		firstStudentGrades[1] = 70.5;	
+    	firstStudentGrades[1] = 70.5;	
 		firstStudentGrades[2] = 90.5;
 		firstStudentGrades[3] = 82.75;
 		firstStudentGrades[4] = 99.5;

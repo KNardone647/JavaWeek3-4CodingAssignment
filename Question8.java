@@ -13,7 +13,7 @@ public class Question8 {
 		
      // prompting the user to input a first and last name    
 		System.out.println("Please input a first name and hit enter:");
-		System.out.println("Please input a last name and hit enter:");
+    	System.out.println("Please input a last name and hit enter:");
 	
 	// making sure the system can take user input from keyboard
 	// calling on the method makeFullName and printing it out console

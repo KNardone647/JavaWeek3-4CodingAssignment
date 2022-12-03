@@ -20,7 +20,7 @@ public class Question2 {
 //		2.
 //		Create an array of String called names that contains the following values: 
 //	    “Sam”, “Tommy”, “Tim”, “Sally”, “Buck”, “Bob”.
-		String[] names = new String[6];
+    	String[] names = new String[6];
 		names[0] = "Sam";
 		names[1] = "Tommy";
 		names[2] = "Tim";

@@ -63,7 +63,7 @@ public class Question1 {
 	    //Print the result to the console.
 		
 		
-		int total = 0;
+    	int total = 0;
 		int averageAge;
 		
 		for(int i = 0; i <ages.size(); i++) {

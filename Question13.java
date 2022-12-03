@@ -9,7 +9,7 @@ public class Question13 {
 		//In comments, write what the method does and why you created it.
 		
 		//prompts the user to input data 
-		System.out.println("Enter the base of the triangle");
+    	System.out.println("Enter the base of the triangle");
 		System.out.println("Enter the height of the triangle");
 		
 		// allows the computer to take the input from keyboard in the double type
